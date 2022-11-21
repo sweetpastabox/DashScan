@@ -1,0 +1,424 @@
+id,cvss,is_exploit,type,host,service_id,OS,Name,Open Ports,Apps
+SECURITYVULNS:VULN:8166,7.5,false,securityvulns,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/OPENBSD-OPENSSH-CVE-2010-4478/,7.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/LINUXRPM-ELSA-2008-0855/,7.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/GENTOO-LINUX-CVE-2010-4252/,7.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2010-4478,7.5,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2008-1657,6.5,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+SSV:60656,5.0,true,seebug,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2017-15906,5.0,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2010-5107,5.0,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/SUSE-CVE-2011-5000/,3.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/ORACLE-SOLARIS-CVE-2012-0814/,3.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/GENTOO-LINUX-CVE-2011-5000/,3.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/AMAZON-LINUX-AMI-ALAS-2012-99/,3.5,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2012-0814,3.5,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2011-5000,3.5,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2008-5161,2.6,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2011-4327,2.1,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+MSF:ILITIES/SSH-OPENSSH-X11USELOCALHOST-X11-FORWARDING-SESSION-HIJACK/,1.2,true,metasploit,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+CVE-2008-3259,1.2,false,cve,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+SECURITYVULNS:VULN:9455,0.0,false,securityvulns,192.168.56.101,tcp.22,Oracle Virtualbox,[],23,product: OpenSSH version: 4.7p1 Debian 8ubuntu1 extrainfo: protocol 2.0 ostype: Linux
+SSV:60184,8.5,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/DNS-BIND-CVE-2012-1667/,8.5,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/APPLE-OSX-BIND-CVE-2012-1667/,8.5,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2012-1667,8.5,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:60292,7.8,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-ELSA-2015-2658/,7.8,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-ELSA-2015-2656/,7.8,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/DEBIAN-DSA-2560/,7.8,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2014-8500,7.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2012-5166,7.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2012-4244,7.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2012-3817,7.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2008-4163,7.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2010-0382,7.6,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+EXPLOITPACK:D6DDF5E24DE171DAAD71FD95FC1B67F2,7.2,true,exploitpack,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+EDB-ID:42121,7.2,true,exploitdb,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2017-3141,7.2,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2015-8461,7.1,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2021-25216,6.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2015-8704,6.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2009-0025,6.8,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2015-8705,6.6,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0976/,6.4,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/APPLE-OSX-APACHE-CVE-2010-3614/,6.4,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2010-3614,6.4,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:4636,5.8,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/SUSE-CVE-2009-0125/,5.8,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:30099,5.0,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:20595,5.0,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+PACKETSTORM:157836,5.0,true,packetstorm,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/VMSA-2012-0016-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/UBUNTU-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/SUSE-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/REDHAT_LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/ORACLE_LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/ORACLE-SOLARIS-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-ELSA-2012-0717/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-ELSA-2012-0716/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/IBM-AIX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP1-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HPUX-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/GENTOO-LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/GENTOO-LINUX-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/F5-BIG-IP-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/F5-BIG-IP-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/DNS-BIND-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/DNS-BIND-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/DEBIAN-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/CENTOS_LINUX-CVE-2016-9131/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/CENTOS_LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/CENTOS_LINUX-CVE-2012-1033/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AMAZON_LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/ALPINE-LINUX-CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AIX-7.2.1-BIND_ADVISORY14_CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AIX-7.2.0-BIND_ADVISORY14_CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AIX-7.1.3-BIND_ADVISORY14_CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AIX-6.1.9-BIND_ADVISORY14_CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/AIX-5.3.12-BIND_ADVISORY14_CVE-2016-8864/,5.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+FBC03933-7A65-52F3-83F4-4B2253A490B6,5.0,true,githubexploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2021-25219,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2021-25215,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2020-8617,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2020-8616,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2017-3145,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-9444,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-9131,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-8864,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-2848,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-1286,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2015-8000,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2012-1033,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2011-4313,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2011-1910,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2009-0265,5.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+1337DAY-ID-34485,5.0,true,zdt,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:11919,4.3,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP2-CVE-2017-3143/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP2-CVE-2017-3142/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP2-CVE-2017-10684/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP1-CVE-2017-3142/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HPUX-CVE-2017-3143/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/HPUX-CVE-2017-3142/,4.3,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2017-3143,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2017-3142,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-2775,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-1285,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2010-0097,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2009-0696,4.3,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2020-8622,4.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2016-6170,4.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2010-0290,4.0,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+SSV:14986,2.6,true,seebug,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+CVE-2009-4022,2.6,false,cve,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+PACKETSTORM:142800,0.0,true,packetstorm,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/REDHAT_LINUX-CVE-2021-25215/,0.0,true,metasploit,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+1337DAY-ID-27896,0.0,true,zdt,192.168.56.101,tcp.53,Oracle Virtualbox,[],23,product: ISC BIND version: 9.4.2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0602/,10.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0440/,10.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0162/,10.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:72403,7.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:26043,7.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20899,7.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:126851,7.8,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:123527,7.8,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:122962,7.8,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:AUXILIARY/DOS/HTTP/APACHE_RANGE_DOS,7.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EXPLOITPACK:186B5FCF5C57B52642E62C06BABC6F83,7.8,true,exploitpack,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EDB-ID:18221,7.8,true,exploitdb,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-3192,7.8,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+1337DAY-ID-21170,7.8,true,zdt,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60913,7.5,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:12673,7.5,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:12626,7.5,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0339/,7.5,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+ECC3E825-EE29-59D3-BE28-1B30DB15940E,7.5,true,githubexploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2017-7679,7.5,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2017-3167,7.5,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2013-2249,7.5,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:11802,7.1,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:11762,7.1,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2009-1891,7.1,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2009-1890,7.1,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60427,6.9,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60386,6.9,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60069,6.9,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-0883,6.9,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/UBUNTU-CVE-2018-1312/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2013-1012/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2013-1011/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP3-CVE-2018-1312/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP2-CVE-2018-1312/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP1-CVE-2018-1312/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/CENTOS_LINUX-CVE-2017-17790/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/ALPINE-LINUX-CVE-2018-1312/,6.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2018-1312,6.8,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:AUXILIARY/DOS/HTTP/SLOWLORIS,6.4,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2017-9788,6.4,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+VULNERLAB:967,5.8,true,vulnerlab,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+VULNERABLE:967,5.8,true,vulnerlab,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:67231,5.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:18637,5.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:15088,5.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:12600,5.8,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:84112,5.8,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2010-0119/,5.8,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EXPLOITPACK:8B4E7E8DAE5A13C8250C6C33307CD66C,5.8,true,exploitpack,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EDB-ID:10579,5.8,true,exploitdb,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2009-3555,5.8,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2013-1208/,5.4,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/LINUXRPM-RHSA-2013-1207/,5.4,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60788,5.1,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2013-1862,5.1,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:96537,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:62058,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:61874,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20993,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20979,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20969,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:19592,5.0,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:105672,5.0,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:105591,5.0,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/UBUNTU-CVE-2018-16228/,5.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/SUSE-CVE-2014-0231/,5.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/APPLE-OSX-WEBSERVER-CVE-2007-6750/,5.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:AUXILIARY/SCANNER/HTTP/REWRITE_PROXY_BYPASS,5.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:AUXILIARY/SCANNER/HTTP/APACHE_OPTIONSBLEED,5.0,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EXPLOITPACK:C8C256BE0BFF5FE1C0405CB0AA9C075D,5.0,true,exploitpack,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EXPLOITPACK:460143F0ACAE117DD79BD75EDFDA154B,5.0,true,exploitpack,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EDB-ID:42745,5.0,true,exploitdb,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EDB-ID:17969,5.0,true,exploitdb,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2017-9798,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2014-0231,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2014-0098,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2013-6438,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2013-5704,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-3368,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2010-1452,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2010-0408,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2009-3095,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2008-2364,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2007-6750,5.0,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+1337DAY-ID-28573,5.0,true,zdt,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:11668,4.9,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:11501,4.9,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2009-1195,4.9,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:30024,4.6,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-0031,4.6,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+1337DAY-ID-27465,4.6,true,zdt,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:23169,4.4,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HPSMH-CVE-2011-4415/,4.4,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HPSMH-CVE-2011-3607/,4.4,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-3607,4.4,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+1337DAY-ID-27473,4.4,true,zdt,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60905,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60657,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60653,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60345,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:4786,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:3804,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:30094,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:30056,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:24250,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20934,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:20555,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:19320,4.3,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PACKETSTORM:109284,4.3,true,packetstorm,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/SUSE-CVE-2012-4558/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/SUSE-CVE-2012-3499/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/ORACLE-SOLARIS-CVE-2012-4558/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/IBM-HTTP_SERVER-CVE-2012-3499/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/IBM-HTTP_SERVER-CVE-2011-0419/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HUAWEI-EULEROS-2_0_SP2-CVE-2016-4975/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HPUX-CVE-2012-4558/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/HPSMH-CVE-2011-0419/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/GENTOO-LINUX-CVE-2011-0419/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/CENTOS_LINUX-CVE-2012-4558/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/CENTOS_LINUX-CVE-2012-3499/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/APPLE-OSX-APACHE-CVE-2011-0419/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/APACHE-HTTPD-CVE-2012-4558/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+MSF:ILITIES/APACHE-HTTPD-CVE-2012-3499/,4.3,true,metasploit,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EXPLOITPACK:FDCB3D93694E48CD5EE27CE55D6801DE,4.3,true,exploitpack,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+EDB-ID:35738,4.3,true,exploitdb,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2016-4975,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2013-1896,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-4558,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-3499,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-0053,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-4317,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-3639,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-3348,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-0419,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2010-0434,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2008-2939,4.3,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2012-2687,2.6,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+SSV:60250,1.2,true,seebug,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+CVE-2011-4415,1.2,false,cve,192.168.56.101,tcp.80,Oracle Virtualbox,[],23,product: Apache httpd version: 2.2.8 extrainfo: (Ubuntu) DAV/2
+PROFTPD_MOD_COPY,10.0,true,canvas,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:26016,9.0,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:24282,9.0,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2011-4130,9.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:96525,7.5,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2019-12815,7.5,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+739FE495-4675-5A2A-BB93-EEF94AC07632,7.5,true,githubexploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:20226,7.1,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+PACKETSTORM:95517,7.1,true,packetstorm,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/GENTOO-LINUX-CVE-2010-3867/,7.1,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2010-3867,7.1,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:12447,6.8,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:11950,6.8,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/SUSE-CVE-2009-2666/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/REDHAT-OPENSHIFT-CVE-2013-4073/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/GENTOO-LINUX-CVE-2009-2666/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/FREEBSD-VID-5179D85C-8683-11DE-91B9-0022157515B2/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/CENTOS_LINUX-CVE-2009-2666/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/APPLE-OSX-FETCHMAIL-CVE-2009-2666/,6.8,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+EDB-ID:33128,6.8,true,exploitdb,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2010-4652,6.8,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2009-0543,6.8,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:12523,5.8,true,seebug,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2009-3639,5.8,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+MSF:ILITIES/SUSE-CVE-2019-18217/,5.0,true,metasploit,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2020-9272,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2019-19272,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2019-19271,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2019-19270,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2019-18217,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2016-3125,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2011-1137,5.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2008-7265,4.0,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2017-7418,2.1,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+CVE-2012-6095,1.2,false,cve,192.168.56.101,tcp.2121,Oracle Virtualbox,[],23,product: ProFTPD version: 1.3.1 ostype: Unix
+SSV:19118,8.5,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2009-2446,8.5,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SAINT:D505D53863BE216621FDAECA22896071,7.5,true,saint,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SAINT:A9E0BE0CEF71F1F98D3CB3E95173B3D0,7.5,true,saint,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SAINT:79BA92A57C28E796ADD04A6A8AE158CE,7.5,true,saint,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SAINT:3101D21E4D8017EA5B14AF668DC39CAD,7.5,true,saint,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+PACKETSTORM:85678,7.5,true,packetstorm,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+PACKETSTORM:82247,7.5,true,packetstorm,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+MSF:EXPLOIT/WINDOWS/MYSQL/MYSQL_YASSL_HELLO,7.5,true,metasploit,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+MSF:EXPLOIT/LINUX/MYSQL/MYSQL_YASSL_HELLO,7.5,true,metasploit,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2008-0226,7.5,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:15006,6.8,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2009-5026,6.8,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2009-4028,6.8,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:19606,6.5,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-1848,6.5,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:19608,6.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:15004,6.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-1850,6.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2008-7247,6.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:19607,5.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+MSF:ILITIES/LINUXRPM-RHSA-2011-0164/,5.0,true,metasploit,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+MSF:ILITIES/LINUXRPM-RHSA-2010-0825/,5.0,true,metasploit,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3833,5.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-1849,5.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:3280,4.6,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2008-4098,4.6,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2008-2079,4.6,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:4042,4.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:15090,4.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:15005,4.0,true,seebug,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0490,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0484,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0102,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0101,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0087,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3838,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3837,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3836,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3834,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3682,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-3677,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2009-4019,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2008-3963,4.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2010-1626,3.6,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0114,3.0,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+CVE-2012-0075,1.7,false,cve,192.168.56.101,tcp.3306,Oracle Virtualbox,[],23,product: MySQL version: 5.0.51a-3ubuntu5
+SSV:60718,10.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2013-1903,10.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2013-1902,10.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:30015,8.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:19652,8.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2013-1900,8.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2010-1169,8.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-1447,8.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-1169,8.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:19754,7.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+MSF:ILITIES/LINUXRPM-RHSA-2012-1047/,7.5,true,metasploit,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+MSF:ILITIES/LINUXRPM-RHSA-2012-1046/,7.5,true,metasploit,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:30152,6.8,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SECURITYVULNS:VULN:10252,6.8,false,securityvulns,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2013-0255,6.8,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-0868,6.8,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-3231,6.8,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2013-0255,6.8,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-0868,6.8,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2009-3231,6.8,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:62083,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:61543,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:19018,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:15153,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:15097,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:15095,6.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SECURITYVULNS:VULN:10803,6.5,false,securityvulns,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SECURITYVULNS:VULN:10473,6.5,false,securityvulns,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0065,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0064,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0063,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0061,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-0866,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2010-4015,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-4136,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-3230,6.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0065,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0064,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0063,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0061,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-0866,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-4015,6.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SECURITYVULNS:VULN:11183,6.0,false,securityvulns,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2010-3433,6.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2010-1170,6.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-3433,6.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-1170,6.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:15154,5.8,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:15096,5.8,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-4034,5.8,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:19669,5.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2010-1975,5.5,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-1975,5.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:61546,4.9,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:60334,4.9,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0062,4.9,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-3488,4.9,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+MSF:ILITIES/CENTOS_LINUX-CVE-2012-3488/,4.9,true,metasploit,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0062,4.9,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-3488,4.9,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:61544,4.6,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0067,4.6,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-2143,4.3,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-0867,4.3,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-2143,4.3,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:61547,4.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:61545,4.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:60335,4.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:60186,4.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:4928,4.0,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SECURITYVULNS:VULN:9765,4.0,false,securityvulns,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0066,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2014-0060,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-3489,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2012-2655,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-3229,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+POSTGRESQL:CVE-2009-0922,4.0,false,postgresql,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0066,4.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2014-0060,4.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-3489,4.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2012-2655,4.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2009-3229,4.0,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+SSV:19322,3.5,true,seebug,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+PACKETSTORM:127092,3.5,true,packetstorm,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
+CVE-2010-0733,3.5,false,cve,192.168.56.101,tcp.5432,Oracle Virtualbox,[],23,product: PostgreSQL DB version: 8.3.0 - 8.3.7
